@@ -80,3 +80,5 @@ swing/data/week_low_swing.db
 - Backtesting report module
 - Streamlit dashboard for visualization
 ---
+
+Added few more files to expand swing trading, will update shortly
